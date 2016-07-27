@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
+BASE_PATH : http://wangzlan.com
 
 
 title : uno-dbyll
