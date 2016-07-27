@@ -17,17 +17,17 @@ tags_path : tags.html
 BASE_PATH : http://wangzlan.com
 
 
-title : uno-dbyll
+title : SanJi
 
 
 
 author:
   name: Ankan Biswas
-  role: Jekyll Theme
-  email: support@ankanbiswas.in
-  github: talk2ankan
+  role: Sanji的博客
+  email: 15158109756@163.com
+  github: shuQQ
   twitter: talk2ankan
   facebook: talk2ankan
   googleplus: +AnkanBiswasWorkspace
-  bio: "Simple, clean, responsive and stylist theme for jekyll. "
+  bio: "技术的强大在于积累 "
   uno-dbyll: https://raw.githubusercontent.com/talk2ankan/uno-dbyll/gh-pages/uno-dbyll.png
